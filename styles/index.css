@@ -1,1 +1,1 @@
-body{max-width:1800px;font-family:"Raleway",sans-serif;margin:auto}.navbar{font-family:"Permanent Marker";padding:10px}.col{border:pink 1px solid;margin:1rem;overflow:hidden}
+body{max-width:1400px;font-family:"Raleway",sans-serif;margin:auto;margin-bottom:40px}.navbar{font-family:"Permanent Marker";padding:10px}.col-md-4{overflow:hidden;max-width:500px}.img{width:500px;height:700px;object-fit:cover;margin-top:10px}

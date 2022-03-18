@@ -1,5 +1,11 @@
-.col {
-    border: pink 1px solid;
-    margin: 1rem;
+.col-md-4 {
     overflow: hidden;
+    max-width: 500px;
+}
+
+.img {
+    width: 500px;
+    height: 700px;
+    object-fit: cover;
+    margin-top: 10px;
 }
